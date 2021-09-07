@@ -1,6 +1,6 @@
 
 
-Files for the SPECTRANS submission for the WMT21 Termniology task
+Files for the SPECTRANS submission for the WMT21 Termnology task
 
 
 Modified scripts for the assessment of the termionology scores :
