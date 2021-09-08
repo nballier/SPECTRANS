@@ -1,9 +1,9 @@
 
 
-Files for the SPECTRANS submission for the WMT21 Termnology task
+Files for the SPECTRANS submission for the WMT21 Terminology task
 
 
-Modified scripts for the assessment of the termionology scores :
+Modified scripts for the assessment of the terminology scores :
 - TER
 - modified TER
 - scoring notebook
