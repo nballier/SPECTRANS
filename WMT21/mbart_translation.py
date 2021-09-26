@@ -1,5 +1,6 @@
 """
 Translate the test set (in `blind_test.eng`) using Facebook MBART model.
+The test set is available from https://drive.google.com/file/d/1AeaGKCInpSTx1UTprzH9VkaFsWzKlrAn/view 
 
 The script relies on the HuggingFace library
 """
