@@ -1,6 +1,6 @@
 """
 Translate the test set (in `blind_test.eng`) using HuggingFace standard `translation pipeline'
-
+Test set available from https://drive.google.com/file/d/1AeaGKCInpSTx1UTprzH9VkaFsWzKlrAn/view
 The script relies on the HuggingFace library
 """
 from tqdm import tqdm
