@@ -8,5 +8,11 @@ Namdarzadeh, B., Ballier, N., Zhu, L.,  Wisniewski, G., and Yunès, J.-B. (2022)
 
 persian_disloc_extract.txt : the file with our 57 test sentences with dislocation.
 
+dislocation.mbart_pred.fra.txt: the file with the MBART50 Translations into French 
+
+dislocation.mbart_pred.en.txt: the file with the MBART50 Translations into English
+
+
+
 
 
